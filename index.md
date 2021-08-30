@@ -16,8 +16,8 @@ Syntax highlighted code block
 ### Header 3
 
 - Getting to meet other computer science/data science majors
-- 
-- 
+- Learning various programming tools that will help me in my computer science classes at Purdue, personal projects, and throughout my career
+- Being in a class that is completely taught by fellow students at Purdue
 
 1. Numbered
 2. List
