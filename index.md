@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Getting to meet other computer science/data science majors
+- 
+- 
 
 1. Numbered
 2. List
