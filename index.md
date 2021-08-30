@@ -12,12 +12,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Tarini Manda's First CS193 Homework
-## Header 2
-### Header 3
 
 - Getting to meet and work alongside other computer science/data science majors
-- Learning various programming tools that will help me not only in my computer science classes at Purdue, but also with personal projects and throughout my career
+- Learning various programming tools that will help me not only in my computer science classes at Purdue, but also with personal projects and throughout my career as a CS/DS major
 - Being in a class that is completely taught by students at Purdue
+- No midterms and final
 
 1. Numbered
 2. List
